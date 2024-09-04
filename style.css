@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --global-back-color: #00030C;
+    --global-principal-white: #FFFFFF;
+    --global-secondary-gray: #C0C0C0;
+    --global-button-color: #167BF7;
+}
+
+body{
+    background-color: var(--global-back-color);
+
+
+} 
+
+.presentationText{
+    color: var(--global-principal-white);
+}
+
